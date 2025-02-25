@@ -1,1 +1,2 @@
-npx --no-install commitlint -e 
+
+# pnpm lint
